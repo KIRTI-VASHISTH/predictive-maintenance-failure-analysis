@@ -1,0 +1,33 @@
+Predictive Maintenance Dashboard - Python dependencies
+
+Recommended Python version: 3.11
+
+Install with: pip install -r requirements.txt
+
+Core data handling
+
+numpy>=1.26,<3.0 pandas>=2.1,<4.0 scipy>=1.11,<2.0
+
+Machine learning and model persistence
+
+scikit-learn>=1.4,<2.0 joblib>=1.3,<2.0
+
+Data visualization
+
+matplotlib>=3.8,<4.0 seaborn>=0.13,<1.0 plotly>=5.18,<7.0
+
+Explainable AI
+
+shap>=0.45,<1.0
+
+Dashboard
+
+streamlit>=1.35,<2.0
+
+Notebook development and experimentation
+
+jupyter>=1.0,<2.0 ipykernel>=6.29,<7.0
+
+Optional: Excel file support, if the project reads/writes .xlsx files
+
+openpyxl>=3.1,<4.0
