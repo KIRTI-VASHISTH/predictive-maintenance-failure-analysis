@@ -31,3 +31,4 @@ jupyter>=1.0,<2.0 ipykernel>=6.29,<7.0
 Optional: Excel file support, if the project reads/writes .xlsx files
 
 openpyxl>=3.1,<4.0
+plotly
